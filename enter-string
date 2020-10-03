@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<string.h>
+int main()
+{
+    char a[20],b[40];
+    printf("enter string\n");
+    gets(a);
+    get(b)
+
+    getch();
+    return 0;
+
+
+}
